@@ -1,2 +1,2 @@
 # XtremeCS
-Extremem compressed sensing phase transitions
+Extreme compressed sensing phase transitions
